@@ -1,5 +1,5 @@
 # z4lab-minecraft-datapacks
-##### minecraft datapack for our vanilla 1.14.3 server
+##### minecraft datapack for our vanilla 1.14.4 server
 
 # Installing
 1. clone/download this repo
