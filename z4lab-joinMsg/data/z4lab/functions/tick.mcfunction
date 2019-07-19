@@ -1,5 +1,5 @@
 title @a[tag=!joined] title {"text": "Welcome on the server", "color": "aqua"}
-title @a[tag=!joined] subtitle {"selector":"@p", "color": "gold"}
+title @a[tag=!joined] subtitle {"selector":"@a[tag=!joined]", "color": "gold"}
 title @a[tag=!joined] actionbar {"text": "Enjoy your stay!", "color": "gold"}
 title @a[tag=!joined] times 0 100 20
 tag @a[tag=!joined] add joined
