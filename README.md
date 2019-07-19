@@ -12,8 +12,8 @@
   - player will get an "Popup" when joining the server
 - z4lab-customRecipes
   - fastcrafting for wood objects
-    [x] 8 logs => 4 chests
-    [x] 2 logs => 16 sticks
-    [] 6 logs => 12 doors
-    [] 6 logs => 8 trapdoors
+    - [x] 8 logs => 4 chests
+    - [x] 2 logs => 16 sticks
+    - [] 6 logs => 12 doors
+    - [] 6 logs => 8 trapdoors
 
