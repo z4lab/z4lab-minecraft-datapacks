@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "#z4lab:tick"
+        "#z4lab_custom_recipes:load"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "#z4lab:load"
+        "z4lab_custom_recipes:load"
     ]
 }
