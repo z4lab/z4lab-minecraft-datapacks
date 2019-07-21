@@ -1,0 +1,1 @@
+scoreboard players reset @a[scores={leaveGame=1..}] Health
