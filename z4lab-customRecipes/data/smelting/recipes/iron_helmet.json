@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:hopper"
+    },
+    "result": "minecraft:iron_helmet",
+    "experience": 0,
+    "cookingtime": 100
+}
