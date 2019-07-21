@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "sleeping": {
+            "trigger": "minecraft:slept_in_bed"
+        },
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "z4lab_better_sleep:start"
+    }
+}
