@@ -1,1 +1,1 @@
-tellraw @a [{"text": "[", "color": "white"},{"text": z4lab, "color": "green"},{"text": "]", "color": "white"},{"text": " # ", "color": "gold"}, {"text":"z4lab-customRecipes ", "color": "yellow"}, {"text":"successfully loaded!", "color": "gray"}]
+tellraw @a [{"text": "[", "color": "white"},{"text": "z4lab", "color": "green"},{"text": "]", "color": "white"},{"text": " # ", "color": "gold"}, {"text":"z4lab-customRecipes ", "color": "yellow"}, {"text":"successfully loaded!", "color": "gray"}]
