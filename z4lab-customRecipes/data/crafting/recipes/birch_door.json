@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WW",
+        "WW",
+        "WW"
+    ],
+    "key": {
+        "W": [{
+            "item": "minecraft:birch_log"
+        }]
+    },
+    "result": {
+        "item": "minecraft:birch_door",
+        "count": 12
+    }
+}

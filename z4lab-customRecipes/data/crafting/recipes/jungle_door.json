@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WW",
+        "WW",
+        "WW"
+    ],
+    "key": {
+        "W": [{
+            "item": "minecraft:jungle_log"
+        }]
+    },
+    "result": {
+        "item": "minecraft:jungle_door",
+        "count": 12
+    }
+}

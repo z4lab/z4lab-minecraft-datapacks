@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WW",
+        "WW",
+        "WW"
+    ],
+    "key": {
+        "W": [{
+            "item": "minecraft:dark_oak_log"
+        }]
+    },
+    "result": {
+        "item": "minecraft:dark_oak_door",
+        "count": 12
+    }
+}

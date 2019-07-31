@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WWW"
+    ],
+    "key": {
+        "W": [{
+            "item": "minecraft:spruce_log"
+        }]
+    },
+    "result": {
+        "item": "minecraft:spruce_trapdoor",
+        "count": 6
+    }
+}
