@@ -1,7 +1,21 @@
 # z4lab-minecraft-datapacks
 ##### minecraft datapack for our vanilla 1.14.4 server
 
-# Installing
+
+# Automatic installing (Linux)
+1. `wget https://raw.githubusercontent.com/13ace37/z4lab-minecraft-datapacks/master/.scripts/install-datapacks.sh` in your `srv/world/` folder.
+1. `chmod +x install-datapacks.sh`
+1. `./install-datapacks.sh`
+1. either restart the server or type `/reload` in-game
+1. done
+
+# Automatic installing (Windows PS)
+1. `wget https://raw.githubusercontent.com/13ace37/z4lab-minecraft-datapacks/master/.scripts/install-datapacks.ps1` in your `srv/world/` folder.
+1. `.\install-datapacks.ps1`
+1. either restart the server or type `/reload` in-game
+1. done
+
+# Manual installing
 1. clone/download this repo
 1. copy paste all folders into your `world/datapacks/` folder
 1. either restart the server or type `/reload` in-game
