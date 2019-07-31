@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:shortcut_hopper"
+    ]
+  },
+  "criteria": {
+    "has_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "z4lab_custom_recipe:log",
+            "count": {
+              "min": 2
+            }
+          },
+		  {
+            "item": "minecraft:iron_ingot",
+            "count": {
+              "min": 5
+            }
+          }
+        ]
+      }
+    },
+    "has_the_vanilla_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:hopper"
+      }
+    },
+    "has_the_shortcut_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:shortcut_hopper"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_items",
+      "has_the_vanilla_recipe",
+      "has_the_shortcut_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "minecraft:shortcut_repeater"
+      ]
+    },
+    "criteria": {
+      "has_items": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:redstone",
+              "count": {
+                "min": 3
+              }
+            },
+            {
+              "item": "minecraft:stone",
+              "count": {
+                "min": 3
+              }
+            }
+          ]
+        }
+      },
+      "has_the_vanilla_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraft:repeater"
+        }
+      },
+      "has_the_shortcut_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraft:shortcut_repeater"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_items",
+        "has_the_vanilla_recipe",
+        "has_the_shortcut_recipe"
+      ]
+    ]
+  }
