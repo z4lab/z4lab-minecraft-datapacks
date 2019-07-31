@@ -16,4 +16,8 @@
     - [x] 2 logs => 16 sticks
     - [x] 6 logs => 12 doors
     - [x] 6 logs => 8 trapdoors
+  - some more shortcuts _these also have their own crafting recipe in the recipe book_
+    - dispenser
+    - hopper
+    - repeater
 
