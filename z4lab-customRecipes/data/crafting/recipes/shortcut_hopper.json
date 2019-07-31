@@ -10,7 +10,7 @@
             "item": "minecraft:iron_ingot"
         },
         "O": {
-            "tag": "lig:log"
+            "tag": "z4lab_custom_recipes:log"
         }
     },
     "result": {
