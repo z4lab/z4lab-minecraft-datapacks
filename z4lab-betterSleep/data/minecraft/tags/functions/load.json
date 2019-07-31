@@ -2,6 +2,6 @@
 	"replace":false,
     "values":
 	[
-		"z4lab_better_sleep:init"
+		"z4lab_better_sleep:load"
 	]
 }
